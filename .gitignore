@@ -1,0 +1,15 @@
+# Runtime state — lives only on the droplet, never commit real entries
+data.json
+wiener-wars/data.json
+backups/
+wiener-wars/backups/
+backup-data*.json
+ww-backups/
+
+# Old archive snapshot
+wiener-wars.zip
+
+# Node / OS noise
+node_modules/
+.DS_Store
+*.log

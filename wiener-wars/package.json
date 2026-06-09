@@ -1,0 +1,10 @@
+{
+  "name": "wiener-wars",
+  "version": "1.0.0",
+  "description": "Self-contained hotdog-eating-contest tracker + leaderboard. No external services.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
